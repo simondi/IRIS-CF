@@ -50,6 +50,7 @@ namespace IRIS.Data
             modelBuilder.Configurations.Add(new UserRoleConfiguration());
             modelBuilder.Configurations.Add(new UserClaimConfiguration());
             modelBuilder.Configurations.Add(new UserLoginConfiguration());
+            modelBuilder.Configurations.Add(new DataTableConfiguration());
         }
 
         #endregion

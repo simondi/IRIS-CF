@@ -60,6 +60,7 @@
     <Compile Include="Configuration\Account\UserConfiguration.cs" />
     <Compile Include="Configuration\Account\UserLoginConfiguration.cs" />
     <Compile Include="Configuration\Account\UserRoleConfiguration.cs" />
+    <Compile Include="Configuration\Data\DataTableConfiguration.cs" />
     <Compile Include="Contract\Interface\IRepositoryProvider.cs" />
     <Compile Include="Contract\IRepository\Account\IRoleRespository.cs" />
     <Compile Include="Contract\IRepository\Account\IUserRepository.cs" />

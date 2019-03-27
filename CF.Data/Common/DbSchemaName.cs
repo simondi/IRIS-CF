@@ -9,6 +9,7 @@ namespace IRIS.Data
     internal class DbSchemaName
     {
         internal const string ACCOUNT = "Account";
+        internal const string DBO = "dbo";
 
     }
 }

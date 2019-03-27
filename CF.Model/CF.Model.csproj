@@ -58,9 +58,6 @@
     <Compile Include="Account\UserClaim.cs" />
     <Compile Include="Account\UserLogin.cs" />
     <Compile Include="Account\UserRole.cs" />
-    <Compile Include="Data\Document.cs" />
-    <Compile Include="Data\Inspection_PIL.cs" />
-    <Compile Include="Data\Inspection_Version.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
